@@ -1,0 +1,8 @@
+{
+  "name": "iana-etc",
+  "package": "org.iana",
+  "description": "/etc/protocols and /etc/services provided by IANA",
+  "version": "20231117-1",
+  "type": "dirstruct",
+  "dependencies": []
+}
